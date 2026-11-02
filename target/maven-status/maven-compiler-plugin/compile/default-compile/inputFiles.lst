@@ -1,0 +1,10 @@
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/HotelApplication.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/ServletInitializer.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/config/WebConfig.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/controller/ReservaController.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/dto/ReservaRequestDTO.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/dto/ReservaResponseDTO.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/exception/GlobalExceptionHandler.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/model/Reserva.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/repository/ReservaRepository.java
+/home/lillo/NetBeansProjects/mavenproject1/src/main/java/com/mycompany/mavenproject1/service/ReservaService.java
